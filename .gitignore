@@ -58,3 +58,4 @@ dist-ssr
 
 .aider*
 .coverage
+*.csv
